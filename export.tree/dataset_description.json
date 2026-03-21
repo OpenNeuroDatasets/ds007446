@@ -1,0 +1,17 @@
+{
+    "Name": "Late Unbalanced Bilinguals Dataset: Structural and Functional MRI data with functional localizers",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Łukasz Kaźmierczak",
+        "Kinga Masłowska",
+        "Agata Wolna",
+        "Zofia Wodniecka"
+    ],
+    "Funding": [
+        "The collection of this dataset was supported by the grant awarded for the OPUS project to Zofia Wodniecka (OPUS 2017/27/B/HS6/00959) and grant awarded for the PRELUDIUM project to Agata Wolna (2022/45/N/HS6/01256)."
+    ],
+    "Acknowledgements": "We are grateful to all the participants of this study as well as the members of Language and Bilingualism Lab who supported the data collection.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007446.v1.0.0"
+}
