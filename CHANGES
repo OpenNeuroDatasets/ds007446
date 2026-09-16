@@ -5,8 +5,9 @@
   - Added the multiple-demand localizer runs and the second fieldmap of sub-A58,
     which were missing from 1.0.0
   - Added language_background/participants_extended.tsv
-  - participants.tsv: L3_language and L4_language now use n/a instead of 0.0
-    where the participant does not speak a third or fourth language
+  - participants.tsv and language_background/participants_extended.tsv:
+    L3_language and L4_language now use n/a instead of 0.0 where the
+    participant does not speak a third or fourth language
 
 1.0.0 2026-02-22
   - Initial
