@@ -131,9 +131,9 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20220720",
     "IntendedFor": [
-        "ses-02/func/sub-A33_ses-02_task-AliceLocalizer_run-01_bold.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-AliceLocalizer_run-01_sbref.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-AliceLocalizer_run-02_bold.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-AliceLocalizer_run-02_sbref.nii.gz"
+        "ses-01/func/sub-A33_ses-01_task-AliceLocalizer_run-01_bold.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-AliceLocalizer_run-01_sbref.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-AliceLocalizer_run-02_bold.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-AliceLocalizer_run-02_sbref.nii.gz"
     ]
 }

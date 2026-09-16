@@ -20,18 +20,17 @@
     "ImageType": [
         "ORIGINAL",
         "PRIMARY",
-        "P",
-        "NONE",
-        "PHASE"
+        "M",
+        "NONE"
     ],
     "ImageTypeText": [
         "ORIGINAL",
         "PRIMARY",
-        "P",
+        "M",
         "DIS2D"
     ],
     "NonlinearGradientCorrection": true,
-    "SeriesNumber": 9,
+    "SeriesNumber": 8,
     "AcquisitionNumber": 1,
     "SliceThickness": 3,
     "SpacingBetweenSlices": 3,
@@ -40,8 +39,6 @@
     "RepetitionTime": 0.485,
     "MTState": false,
     "FlipAngle": 60,
-    "EchoTime1": 0.00492,
-    "EchoTime2": 0.00738,
     "PartialFourier": 1,
     "BaseResolution": 64,
     "ShimSetting": [
@@ -134,9 +131,9 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20220720",
     "IntendedFor": [
-        "ses-02/func/sub-A33_ses-02_task-MDLocalizer_run-01_bold.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-MDLocalizer_run-01_sbref.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-MDLocalizer_run-02_bold.nii.gz",
-        "ses-02/func/sub-A33_ses-02_task-MDLocalizer_run-02_sbref.nii.gz"
+        "ses-01/func/sub-A33_ses-01_task-MDLocalizer_run-01_bold.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-MDLocalizer_run-01_sbref.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-MDLocalizer_run-02_bold.nii.gz",
+        "ses-01/func/sub-A33_ses-01_task-MDLocalizer_run-02_sbref.nii.gz"
     ]
 }
