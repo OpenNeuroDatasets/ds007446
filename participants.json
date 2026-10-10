@@ -209,5 +209,12 @@
   "L4_accent_self_rated_proficiency": {
     "Description": "Self-rated proficiency in accent L4",
     "Units": "score 1-10"
+  },
+  "scanner": {
+    "Description": "Scanner on which the participant's data were acquired. Acquisition details for each scanner are reported in the accompanying publication.",
+    "Levels": {
+      "Scanner A": "First of the two scanners used in this study",
+      "Scanner B": "Second of the two scanners used in this study"
+    }
   }
 }

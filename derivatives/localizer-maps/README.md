@@ -51,9 +51,11 @@ Preprocessing and first-level modelling were carried out with SPM12 through CONN
 | Nuisance regressors | six motion parameters per run, plus outlier (scrubbing) regressors where these were generated; the number varies by participant, which is why residual degrees of freedom vary |
 | Published contrast | `intact-degraded` (language) and `hard-easy` (multiple-demand), the third contrast of each model |
 
-Functional images were spatially smoothed with a Gaussian kernel before modelling. The archived pipeline logs
-record 4 mm FWHM for the `sub-A01`-`sub-A32` runs and a two-step 4 mm followed by 6.93 mm — that is, 8 mm
-effective FWHM — for the `sub-A33`-`sub-A77` runs.
+Functional images were spatially smoothed with a 4 mm FWHM Gaussian kernel before modelling.
+
+Preprocessing and first-level estimation were run with the `DefaultMNI_PlusStructural` pipeline of the EvLab
+module (`el`) of the CONN toolbox. The scripts, the input file formats they expect and the contrast definitions
+are published in `code/` of the source dataset.
 
 ## Group maps
 

@@ -7,6 +7,11 @@
   - Added language_background/participants_extended.tsv
   - sub-A33: removed the anatomical-only ses-01, which duplicated the T1w in ses-02,
     and relabelled ses-02 as ses-01, as for the other single-session participants
+  - Added code/: the CONN/EvLab scripts used to preprocess the localizer data
+    and estimate the first-level models
+  - participants.tsv and language_background/participants_extended.tsv:
+    added a scanner column identifying which of the two scanners each
+    participant was scanned on
   - participants.tsv and language_background/participants_extended.tsv:
     L3_language and L4_language now use n/a instead of 0.0 where the
     participant does not speak a third or fourth language
