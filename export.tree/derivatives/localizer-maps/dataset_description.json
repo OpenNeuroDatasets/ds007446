@@ -1,0 +1,30 @@
+{
+  "Name": "Localizer statistical maps and language/multiple-demand atlas correlations",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC0",
+  "Authors": [
+    "Łukasz Kaźmierczak",
+    "Kinga Masłowska",
+    "Agata Wolna",
+    "Zofia Wodniecka"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "SPM12",
+      "Version": "r7120 (sub-A01 to sub-A32, sub-B01 to sub-B44); r7738 (sub-A33 to sub-A77)",
+      "Description": "First-level general linear model and subject-level t-contrast maps. Revision read from spm_spm in the archived first-level model files; the SPM12 release number could not be recovered."
+    },
+    {
+      "Name": "CONN",
+      "Version": "22.a (sub-A33 to sub-A77); unspecified (sub-A01 to sub-A32, sub-B01 to sub-B44)",
+      "Description": "Preprocessing and first-level model setup. The CONN version is not recorded in the archived model files for all participants."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds007446",
+      "DOI": "doi:10.18112/openneuro.ds007446.v1.0.0"
+    }
+  ]
+}
